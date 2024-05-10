@@ -10,7 +10,7 @@ classification using deep learning techniques. The process of uploading an image
 classifying it as either having or not having a Brain Tumor is showcased. Multiple 
 instances are demonstrated, illustrating user interaction with the app and the resulting 
 classifications.
-![Frontend]([files://C:/Users/jzhang/Desktop/Isolated.png](https://raw.githubusercontent.com/Rounak107/Brain-Tumor-Classification/main/images/image.png))
+![Frontend](https://raw.githubusercontent.com/Rounak107/Brain-Tumor-Classification/main/images/image.png)
 
 The Dataset contain with 3060 data and the input images are of size 64x64 pixels. These hyperparameters are crucial in training a deep learning model. The learning rate controls the step size during optimization, the batch size influences the number of samples used in each iteration and the quantity of epochs dictates the frequency with which the model traverses the complete training dataset.
 
